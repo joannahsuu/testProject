@@ -10,14 +10,12 @@ public class paintEdit {
 		int cans;
 		
 		
-		
-		
 		System.out.println("Enter number of square feet to be painted:");
 		
-		while(scan.hasNext()){
-			if(scan.hasNextInt()) {
-				}
-			}
+//		while(scan.hasNext()){
+//			if(scan.hasNextInt()) {
+//				}
+//			}
 		
 	}
 
