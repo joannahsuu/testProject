@@ -11,7 +11,7 @@ public class paintEdit {
 		
 
 		System.out.println("Enter number of square feet to be painted:");
-		
+		System.out.println("BBBBBBBBBBBBBBBB");
 //		while(scan.hasNext()){
 //			if(scan.hasNextInt()) {
 //				}
