@@ -1,6 +1,6 @@
 package exer02;
 import java.util.*;
-public class paint {
+public class paintEdit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
